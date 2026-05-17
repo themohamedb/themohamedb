@@ -1,3 +1,3 @@
-Building products, systems, and workflows with AI.
+Building products and AI-powered systems.
 
-Documenting the process as I go.
+A builder documenting work — for the future.
